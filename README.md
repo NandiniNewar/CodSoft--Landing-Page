@@ -2,5 +2,5 @@
 Web Development Landing Page
 # Language Used
 HTML , CSS
-#Live Link
+# Live Link
 https://nandininewar.github.io/CodSoft--Landing-Page/
